@@ -2,7 +2,7 @@
 
 > **Reto 3 | Economía y Finanzas**  
 > Sistema End-to-End de monitoreo de TRM, gestión de inversionistas y análisis de decisión cambiaria.  
-> **Grupo 4:** Juan Sebastian Salas · Alan Rossoff · Lukas Blanco
+> **Grupo 4:** Juan Sebastian Salas · Lukas Blanco
 
 ---
 
